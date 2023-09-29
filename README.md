@@ -13,7 +13,7 @@ Using the Fer2013 dataset, we developed a method for recognising human facial ex
 The dataset includes images labelled with seven different emotion classes.
 To identify the best deep learning model for this task, we trained and compared the
 performance of several deep learning models, including custom model architecture,
-ResNet18, MobileNetV2, SqueezeNet1_0, and ShuffleNetV2_x1_0.
+ResNet18, MobileNetV2, SqueezeNet1_0, and ShuffleNetV2_x1_0. Also did model profiling using TensorBoard.
 
 *Facial Expression Recognition 2013 Dataset* - Fer2013 ([link](https://paperswithcode.com/dataset/fer2013)) contains approximately 30,000 facial
 RGB images of different expressions with size restricted to 48×48, and the main labels of it can be
